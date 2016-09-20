@@ -26,3 +26,6 @@
 # complete and total jagoff?  remember that time?  it sucked. :(
 # you totally had to make a spec file to build an RPM when you 
 # could have just retrieved it from fedoraproject.  </rant>
+
+# save yourself the trouble and check out the real deal here: 
+# https://pkgs.fedoraproject.org/cgit/rpms/perl-Image-ExifTool.git/
