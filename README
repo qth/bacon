@@ -20,7 +20,9 @@
 # $ sudo yum install ~/rpmbuild/RPMS/Image-ExifTool....rpm
 
 # 2016-09-20
-# so, you remember that time when you did a yum search,
+# <rant> so, you remember that time when you did a yum search,
 # "yum search exiftool" but it didn't show results since the 
 # supposed RHEL admin for your org is actually in fact a 
 # complete and total jagoff?  remember that time?  it sucked. :(
+# you totally had to make a spec file to build an RPM when you 
+# could have just retrieved it from fedoraproject.  </rant>
