@@ -1,3 +1,9 @@
+# This started as a repo for exiftool RPM specs, etc., but I think it should just be a place to keep all the Specks, hence Bacon.
+
+# ImageMagick 
+#  custom build, includes dcraw as a delegate & dependency
+#  rolls in more delegates JP2, JPEG2000, etc. than does stock
+
 # exiftool-rpm
 
 # 2016-09-19
