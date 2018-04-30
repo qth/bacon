@@ -1,5 +1,5 @@
 %global VER 6.9.9
-%global Patchlevel 22
+%global Patchlevel 40
 
 Name:		ImageMagick
 Version:	%{VER}.%{Patchlevel}
@@ -350,6 +350,9 @@ make %{?_smp_mflags} check
 %doc PerlMagick/demo/ PerlMagick/Changelog PerlMagick/README.txt
 
 %changelog
+* Thu Apr 26 2018 James Boyle <qth@canonic.net> - 6.9.9.40-1
+- Update to 6.9.9-40
+
 * Thu Nov  9 2017 James Boyle <qth@canonic.net> - 6.9.9.22-1
 - Update to 6.9.9-22
 - Changed this SPEC to support RHEL 7, not Fedora
